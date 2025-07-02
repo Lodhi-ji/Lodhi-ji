@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ritik Lodhi
 
-🎓 **B.Tech CSE (Design)** @ Rajiv Gandhi Institute of Petroleum Technology (2023–27)  
-💻 **Frontend Developer | DSA Enthusiast | Open Source Learner**
+🎓 **B.Tech in Computer Sceince** @ Rajiv Gandhi Institute of Petroleum Technology (2023–27)  
+💻 **Web Developer | DSA Enthusiast **
 
 ---
 
