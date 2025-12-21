@@ -9,7 +9,7 @@ Full Stack web projects<br><br>
 Full Stack Development & Competitive Programming<br><br>
 
 💬 Ask me about:<br>
-DSA, Competitive Programming, JavaScript, React<br><br>
+DSA, Competitive Programming, JavaScript, React<br>
 
 ⚡ Fun fact:<br>
 I enjoy solving coding problems as much as building UI components.
