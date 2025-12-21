@@ -1,13 +1,10 @@
 # 💫 About Me:
-📌 About Me :<br><br>
+<br><br>
 I’m currently a pre-final year B.Tech Computer Science student, focused on Data Structures & Algorithms and Web Development.<br><br>
-
 🔭 I’m currently working on:<br>
 Data Structures & Algorithms and Web Development<br><br>
-
 👯 I’m looking to collaborate on:<br>
 Full Stack web projects<br><br>
-
 🌱 I’m currently learning:<br>
 Full Stack Development & Competitive Programming<br><br>
 
