@@ -1,6 +1,21 @@
 # 💫 About Me:
-📌 About Me :<br><br>🔭 I’m currently working on:<br>Data Structures & Algorithms and Web Development<br><br>👯 I’m looking to collaborate on:<br>Full Stack web projects<br><br>🌱 I’m currently learning:<br>Full Stack Development & Competitive Programming<br><br>💬 Ask me about:<br>DSA, Competitive Programming, JavaScript, React,<br><br>⚡ Fun fact:<br>I enjoy solving coding problems as much as building UI components.
+📌 About Me :<br><br>
+I’m currently a pre-final year B.Tech Computer Science student, focused on Data Structures & Algorithms and Web Development.<br><br>
 
+🔭 I’m currently working on:<br>
+Data Structures & Algorithms and Web Development<br><br>
+
+👯 I’m looking to collaborate on:<br>
+Full Stack web projects<br><br>
+
+🌱 I’m currently learning:<br>
+Full Stack Development & Competitive Programming<br><br>
+
+💬 Ask me about:<br>
+DSA, Competitive Programming, JavaScript, React<br><br>
+
+⚡ Fun fact:<br>
+I enjoy solving coding problems as much as building UI components.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-lodhi-324970283) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ritik_Lodhi35) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritiklodhi35@gmail.com) 
